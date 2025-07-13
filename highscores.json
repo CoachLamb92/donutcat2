@@ -1,0 +1,44 @@
+{
+    "Scores": [
+        {
+            "Player": "Alpha",
+            "Score": 1000
+        },
+        {
+            "Player": "Bravo",
+            "Score": 900
+        },
+        {
+            "Player": "Charlie",
+            "Score": 800
+        },
+        {
+            "Player": "Delta",
+            "Score": 700
+        },
+        {
+            "Player": "Echo",
+            "Score": 600
+        },
+        {
+            "Player": "Foxtrot",
+            "Score": 500
+        },
+        {
+            "Player": "Golf",
+            "Score": 400
+        },
+        {
+            "Player": "Hotel",
+            "Score": 300
+        },
+        {
+            "Player": "India",
+            "Score": 200
+        },
+        {
+            "Player": "Juliet",
+            "Score": 100
+        }
+    ]
+}
