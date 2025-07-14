@@ -89,9 +89,10 @@ def game_state():
         window.blit(time_text, (770,0))
         pygame.display.flip()
 
-        clock.tick_busy_loop(60000000)
+        clock.tick_busy_loop(600)
     time_span = (time.time() - multi_time)
     score += int(time_span * multiplier * 1000)
     game_over(score)
 
-# game_state()
+if __name__ == "__main__":
+    game_state()

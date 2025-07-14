@@ -1,6 +1,5 @@
 import pygame
 import sys
-
 from game_objects import Window, Highscore_Table
 
 def highscores():

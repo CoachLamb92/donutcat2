@@ -3,11 +3,14 @@
 ## Hi, this is a rushed README
 
 Please be gentle! It's a hot mess, it works but at what cost...<br>
-(The options button doesn't go anywhere, it's a placeholder for future DLC (paid))
+PS: The options button doesn't go anywhere, it's a placeholder for future DLC (paid)<br>
+PPS: A slow double-click is the best way to navigate the menus
 
-- DOWNLOAD this repo onto your computer
+- CLONE this repo onto your computer
 - Go to your terminal/command line and navigate to the DonutCat2 folder.
 - Execute the following commands, one at a time:
+
+## Use the arrow keys to move! (You are the white circle, you desire the blue squares, we do not like the red circle)
 
 <h3>Setup (first time only)</h3>
 
