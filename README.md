@@ -1,39 +1,36 @@
-# README
+# DonutCat2 README
 
-## Hi, this is a rushed README
+## Foreword
 
 Please be gentle! It's a hot mess, it works but at what cost...<br>
-PS: The options button doesn't go anywhere, it's a placeholder for future DLC (paid)<br>
-PPS: A slow double-click is the best way to navigate the menus
+PS: A slow double-click is the best way to navigate the menus<br>
+PPS: The options button doesn't go anywhere, it's a placeholder for future DLC (paid)<br>
+
+## Setup
 
 - CLONE this repo onto your computer
 - Go to your terminal/command line and navigate to the DonutCat2 folder.
-- Execute the following commands, one at a time:
-
-## Use the arrow keys to move! (You are the white circle, you desire the blue squares, we do not like the red circle)
+- Paste the appropriate commands into your terminal
 
 <h3>Setup (first time only)</h3>
 
-### Step 1
 
-    python -m venv venv
+    make setup
     
-### Step 2
 
-    source venv/bin/activate
 
-### Step 3
 
-    pip install pygame
+<h3>To  play!</h3>
 
-Steps 1-3 should only be necessary for the initial setup
 
-Once Steps 1-3 are done, execute Step 4 below.
+    make run
 
-### Step 4
+## Game Instructions
 
-    python main_menu.py
+#### You are the white circle
+#### Use the arrow keys to move
+#### You desire the blue squares
+#### We do not like the red circle
 
-To run the game after the initial setup, just activate the venv as in Step 2, then start the game using Step 4.
+# Happy Gaming!
 
-## Happy playing!
